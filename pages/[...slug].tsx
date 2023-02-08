@@ -4,7 +4,7 @@ import Image from "next/image";
 import { useRouter } from "next/router";
 import { useEffect, useState } from "react";
 import { Toaster, toast } from "react-hot-toast";
-import Footer from "../components/Footer";
+
 import Header from "../components/Header";
 import SquigglyLines from "../components/SquigglyLines";
 
